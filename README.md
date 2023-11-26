@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Jae
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Starlight220.Starlight220)
+<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=starlight220&show_icons=true&theme=synthwave&hide=stars" align="right" />
 
 <!--
 **jcsong06/jcsong06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
