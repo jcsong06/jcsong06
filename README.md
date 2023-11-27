@@ -5,6 +5,13 @@ I'm the Software Lead of FIRST Robotics Team ERROR 3130, located in Woodbury Min
 
 I studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly.
 
+### Languages, Tools, and Frameworks
+![Java](https://img.shields.io/badge/java-f89820.svg?logo=java&style=for-the-badge&logo=java&logoColor=5382a1)
+![Gradle](https://img.shields.io/badge/Gradle-06A0CE?logo=Gradle&labelColor=02303A&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-fb2046.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)
+
 <!--
 **jcsong06/jcsong06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
