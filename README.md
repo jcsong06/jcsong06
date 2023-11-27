@@ -1,6 +1,7 @@
 ### Hi I'm Jae!
 <img alt="Jae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcsong06&show_icons=true&theme=synthwave&hide=stars" align="right" />
 
+I'm the Software Lead of FIRST Robotics Team ERROR 3130, located in Woodbury Minnesota. I have learned Python, Java, C, and x86-64 Assembly at the University of Minnesota. Currently, I teach and code my robotics team's software using Java and the WPILib software library.
 
 <!--
 **jcsong06/jcsong06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
