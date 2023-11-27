@@ -7,7 +7,7 @@ I studied computer science at the University of Minnesota for the past two years
 
 ### Languages, Tools, and Frameworks
 ![Java](https://img.shields.io/badge/java-f89820.svg?logo=java&style=for-the-badge&logo=java&logoColor=5382a1)
-![WPILib](https://img.shields.io/badge/IntelliJIDEA-fb2046.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)
+![WPILib](https://img.shields.io/badge/WPI%20Robotics%20Library-orange?style=for-the-badge&logo=first&logoColor=white&labelColor=darkblue&color=blue)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-fb2046.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![VSCode](https://img.shields.io/badge/IntelliJIDEA-fb2046.svg?style=for-the-badge&logo=intellij-idea&logoColor=black)
