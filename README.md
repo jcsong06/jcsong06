@@ -1,5 +1,5 @@
 ### Hi I'm Jae!
-<img alt="General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcsong06&show_icons=true&theme=synthwave&hide=stars" align="right" />
+<img alt="Jae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcsong06&show_icons=true&theme=synthwave&hide=stars" align="right" />
 
 
 <!--
