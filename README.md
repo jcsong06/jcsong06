@@ -16,7 +16,6 @@ I have studied computer science at the University of Minnesota for the past two 
 ![Gradle](https://img.shields.io/badge/Gradle-06A0CE?logo=Gradle&labelColor=02303A&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white&color=%23E95420)
 ![WPILib](https://img.shields.io/badge/WPI%20Robotics%20Library-blue?style=for-the-badge&logo=first&logoColor=white&color=%23ED1C24)
-![Static Badge](https://img.shields.io/badge/wpi-red?color=white&link=https%3A%2F%2Fdocs.wpilib.org%2Fen%2Fstable%2Findex.html)
 
 
 
