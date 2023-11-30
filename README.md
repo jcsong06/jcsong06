@@ -12,8 +12,9 @@ I have studied computer science at the University of Minnesota for the past two 
 ![x86-64 Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&label=x86-64&labelColor=242526&color=18191A)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij%20idea&logoColor=black&color=%23FE315D)
 ![VSCode](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=%230078d7)
-![Gradle](https://img.shields.io/badge/Gradle-06A0CE?logo=Gradle&labelColor=02303A&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-06A0CE?logo=Gradle&labelColor=02303A&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white&color=%23E95420)
 ![WPILib](https://img.shields.io/badge/WPI%20Robotics%20Library-blue?style=for-the-badge&logo=first&logoColor=white&color=%23ED1C24)
 
 
