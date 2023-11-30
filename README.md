@@ -7,7 +7,7 @@ I have studied computer science at the University of Minnesota for the past two 
 
 ### Languages, Tools, and Frameworks
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logoColor=orange&color=446879)
-![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=C&logoColor=white%color=%23044F88)
+![C](https://img.shields.io/badge/C-red?style=for-the-badge&logo=C&logoColor=white&color=%23044F88)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=FFD43B&color=blue)
 ![x86-64 Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&label=x86-64&labelColor=242526&color=18191A)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij%20idea&logoColor=black&color=%23FE315D)
