@@ -5,6 +5,8 @@ I'm the Software Lead of FIRST Robotics Team ERROR 3130, located in Woodbury Min
 
 I have studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly.
 
+<hr>
+
 ### Languages, Tools, and Frameworks
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logoColor=orange&color=446879)
 ![C](https://img.shields.io/badge/C-red?style=for-the-badge&logo=C&logoColor=white&color=%23044F88)
@@ -18,6 +20,13 @@ I have studied computer science at the University of Minnesota for the past two 
 ![WPILib](https://img.shields.io/badge/WPI%20Robotics%20Library-blue?style=for-the-badge&logo=first&logoColor=white&color=%23ED1C24)
 
 
+<!--
+### Reach me at
+<p align="center">
+<a target="_blank" href="mailto:jcsong06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/juhae-song-50b0b224b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<br>
+</p>     
 
 <!--
 **jcsong06/jcsong06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
