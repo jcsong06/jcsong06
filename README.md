@@ -22,7 +22,7 @@ I have studied computer science at the University of Minnesota for the past two 
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsong06&layout=compact)](https://github.com/jcsong06/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsong06&layout=compact)]
 
 <!--
 ### Reach me at
