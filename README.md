@@ -20,10 +20,6 @@ I have studied computer science at the University of Minnesota for the past two 
 ![GDB](https://img.shields.io/badge/Debugger-3A3B3C?style=for-the-badge&logo=GDB&label=GDB)
 ![WPILib](https://img.shields.io/badge/WPI%20Robotics%20Library-blue?style=for-the-badge&logo=first&logoColor=white&color=%23ED1C24)
 
-<hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcsong06&layout=compact)
-
 <!--
 ### Reach me at
 <p align="center">
