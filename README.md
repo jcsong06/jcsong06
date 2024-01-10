@@ -1,5 +1,5 @@
 ### Hi I'm Jae!
-<img alt="Jae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcsong06&show_icons=true&theme=github_dark&hide=stars" align="right">
+<img alt="Jae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcsong06&show_icons=true&theme=github_dark&" align="right">
 
 I'm the Software Lead of FIRST Robotics Team ERROR 3130, located in Woodbury Minnesota. Currently, I am working on teaching my team's software members and coding robots using Java and the [WPILib](https://github.com/wpilibsuite) software library.
 
