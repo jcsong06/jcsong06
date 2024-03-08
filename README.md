@@ -3,7 +3,7 @@
 
 I'm the Software Lead of FIRST Robotics Team ERROR 3130, located in Woodbury Minnesota. Currently, I am working on teaching my team's software members and coding robots using Java and the [WPILib](https://github.com/wpilibsuite) software library.
 
-I have studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly.
+I have studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly. I am planning to study machine learning and computer vision at Stanford University, Class of 2028.
 
 <hr>
 
