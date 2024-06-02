@@ -1,9 +1,9 @@
 ### Hi I'm Jae!
 <img alt="Jae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcsong06&show_icons=true&theme=github_dark&" align="right">
 
-I'm the Software Lead of FIRST Robotics Team ERROR 3130, located in Woodbury Minnesota. Currently, I am working on teaching my team's software members and coding robots using Java and the [WPILib](https://github.com/wpilibsuite) software library.
+I am an incoming computer science and sociology double major at Stanford University. I plan to study my own computer science track in AI, computer engineering, and visual computing. I have studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly. 
 
-I have studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly. I am planning to study machine learning and computer vision at Stanford University, Class of 2028.
+I was also the former Software Lead of FIRST Robotics Team ERROR 3130. I was in charge of programming the 2024 competition robot ShowstoppE.R.R. using Java and the [WPILib](https://github.com/wpilibsuite) software library, code accessible in the repository [Otter](https://github.com/team3130/Otter).
 
 <hr>
 
