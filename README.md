@@ -1,7 +1,7 @@
 ### Hi I'm Juhae!
 <img alt="Juhae's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jcsong06&show_icons=true&theme=github_dark&" align="right">
 
-I am a computer science undergraduate at Stanford University. I plan to study my own computer science track in AI, computer engineering, and visual computing. I have studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly. 
+I am a computer science undergraduate at Stanford University. I have studied computer science at the University of Minnesota for the past two years, learning Python, Java, C, and x86-64 Assembly. 
 
 I was also the former Software Lead of FIRST Robotics Team ERROR 3130. I was in charge of programming the 2024 competition robot ShowstoppE.R.R. using Java and the [WPILib](https://github.com/wpilibsuite) software library, code accessible in the repository [Otter](https://github.com/team3130/Otter).
 
