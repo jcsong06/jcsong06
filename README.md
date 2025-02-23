@@ -14,7 +14,7 @@ I was also the former Software Lead of FIRST Robotics Team ERROR 3130. I was in 
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=FFD43B&color=blue)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&color=%23F29111)
 ![x86-64 Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&label=x86-64&labelColor=242526&color=18191A)
-![React Native](https://img.shields.io/badge/React%20Native-blue?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282C34&color=black)
+![React Native](https://img.shields.io/badge/React%20Native-blue?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282C34&color=grey)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-blue?style=for-the-badge&logo=intellij%20idea&logoColor=black&color=%23FE315D)
 ![VSCode](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=%230078d7)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
