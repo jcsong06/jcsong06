@@ -9,7 +9,7 @@ I was also the former Software Lead of FIRST Robotics Team ERROR 3130. I was in 
 
 ### Languages, Tools, and Frameworks
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logoColor=orange&color=446879)
-![C++](https://img.shields.io/badge/C%2B%2B?style=for-the-badge&logo=C%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&color=004482)
 ![C](https://img.shields.io/badge/C-red?style=for-the-badge&logo=C&logoColor=white&color=%23044F88)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=FFD43B&color=blue)
 ![x86-64 Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&label=x86-64&labelColor=242526&color=18191A)
